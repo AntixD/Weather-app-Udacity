@@ -1,5 +1,7 @@
 # Weather-Journal App Project
 
+# HTML and CSS were given by Udacity
+
 ## Overview
 This project consists of an asynchronous web app that uses Web API and user data to dynamically update the UI from all the data fetched from the external OpenWeatherMap.com API and from the local API. 
 
